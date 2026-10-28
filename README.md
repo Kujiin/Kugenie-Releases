@@ -2,6 +2,14 @@
 
 An AI chat and coding workspace for Windows, with Codex and GitHub Copilot.
 
+## What is it for?
+
+Kugenie brings AI chat and coding help into one desktop app. Ask questions, work on an existing project, and review proposed file changes before approving them. Use it alongside your code editor.
+
+## Who is it for?
+
+Students, hobbyists, and developers who want a simple place to ask coding questions and work on projects with AI. You need your own eligible Codex or GitHub Copilot account. Project work uses both providers.
+
 ## Download
 
 [Download Kugenie for Windows](https://github.com/Kujiin/Kugenie-Releases/releases/latest/download/Kugenie-Setup.exe)
