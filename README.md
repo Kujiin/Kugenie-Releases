@@ -8,7 +8,7 @@ Kugenie brings AI chat and coding help into one desktop app. Ask questions, work
 
 ## Who is it for?
 
-Students, hobbyists, and developers who want a simple place to ask coding questions and work on projects with AI. You need your own eligible Codex or GitHub Copilot account. Project work uses both providers.
+Students, hobbyists, and developers who want a simple place to ask coding questions and work on projects with AI. You need your own eligible Codex or GitHub Copilot account. Choose Codex, Copilot, or both for project work.
 
 ## Download
 
@@ -19,7 +19,7 @@ Students, hobbyists, and developers who want a simple place to ask coding questi
 1. Download and run **Kugenie-Setup.exe** on a 64-bit Windows PC.
 2. Open Kugenie and select **Setup**.
 3. Follow the instructions to install and sign in to Codex or GitHub Copilot with your own eligible account.
-4. Select **Check connections**, then start a chat or add a project folder. Project work uses both providers.
+4. Select **Check connections**, then start a chat or add a project folder. Choose Codex, Copilot, or both for project work.
 
 This is an early release. The installer is unsigned, so Windows may show a security warning.
 
