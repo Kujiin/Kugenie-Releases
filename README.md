@@ -24,3 +24,10 @@ Students, hobbyists, and developers who want a simple place to ask coding questi
 This is an early release. The installer is unsigned, so Windows may show a security warning.
 
 This repository contains downloads and user information only. Kugenie's source code is private.
+## Ownership
+
+Kugenie is owned and developed by Kujin™.
+
+© 2026 Kujin™. All rights reserved. The Kugenie name, logo, and original branding belong to Kujin™. Third-party names, logos, and software belong to their respective owners.
+
+Kugenie's application source code is private and is not included in this repository or its downloads.
