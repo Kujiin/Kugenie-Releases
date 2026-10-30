@@ -1,33 +1,49 @@
-# Kugenie
+<div align="center">
+  <img src="assets/kugenie-logo.png" alt="Kugenie logo" width="100" />
+  <h1>Kugenie</h1>
+  <p>A little space to build.</p>
+  <p>AI chat and coding with Codex and GitHub Copilot, together on Windows.</p>
+  <p><a href="https://github.com/Kujiin/Kugenie-Releases/releases/latest/download/Kugenie-Setup.exe"><strong>Download for Windows</strong></a> · <a href="https://github.com/Kujiin/Kugenie-Releases/releases">Release notes</a> · <a href="https://github.com/Kujiin/Kugenie-Releases/issues">Report a problem</a></p>
+  <p>Windows x64 · Early release · By Kujin™</p>
+</div>
 
-An AI chat and coding workspace for Windows, with Codex and GitHub Copilot.
+![Kugenie workspace preview](assets/workspace-preview.png)
 
-## What is it for?
+*Workspace preview using demo content.*
 
-Kugenie brings AI chat and coding help into one desktop app. Ask questions, work on an existing project, and review proposed file changes before approving them. Use it alongside your code editor.
+## A workspace for your ideas
 
-## Who is it for?
+Ask questions, work on a project, and review proposed changes alongside your code editor. Kugenie brings your conversations and AI coding workflow into one desktop app.
 
-Students, hobbyists, and developers who want a simple place to ask coding questions and work on projects with AI. You need your own eligible Codex or GitHub Copilot account. Choose Codex, Copilot, or both for project work.
+- **Choose your agents.** Use Codex, Copilot, or both.
+- **Stay in control.** Review file changes before approving them. Optional Full access allows direct edits and commands.
+- **Keep your place.** Search saved chats, choose project context, and follow live task activity.
 
-## Download
-
-[Download Kugenie for Windows](https://github.com/Kujiin/Kugenie-Releases/releases/latest/download/Kugenie-Setup.exe)
+Built for students, hobbyists, and developers who want a simple place to work with AI.
 
 ## Get started
 
-1. Download and run **Kugenie-Setup.exe** on a 64-bit Windows PC.
+1. [Download Kugenie-Setup.exe](https://github.com/Kujiin/Kugenie-Releases/releases/latest/download/Kugenie-Setup.exe) and run it on a 64-bit Windows PC.
 2. Open Kugenie and select **Setup**.
-3. Follow the instructions to install and sign in to Codex or GitHub Copilot with your own eligible account.
-4. Select **Check connections**, then start a chat or add a project folder. Choose Codex, Copilot, or both for project work.
+3. Follow the steps to install and sign in to your chosen providers.
+4. Select **Check connections**, then start a chat or add a project folder.
 
-This is an early release. The installer is unsigned, so Windows may show a security warning.
+You need your own eligible Codex or GitHub Copilot access. Provider usage limits apply. The installer is unsigned, so Windows may show a security warning.
 
-This repository contains downloads and user information only. Kugenie's source code is private.
+## Try a first request
+
+- “Explain how this project works.”
+- “Help me find the cause of this error.”
+- “Suggest improvements, and let me review the changes.”
+
+## Help and feedback
+
+[Read the latest release notes](https://github.com/Kujiin/Kugenie-Releases/releases/latest) for changes and known issues. [Open an issue](https://github.com/Kujiin/Kugenie-Releases/issues) to report a problem or suggest a feature. Please leave out passwords, tokens, and private project content.
+
 ## Ownership
 
-Kugenie is owned and developed by Kujin™.
+Kugenie is owned and developed by **Kujin™**.
 
 © 2026 Kujin™. All rights reserved. The Kugenie name, logo, and original branding belong to Kujin™. Third-party names, logos, and software belong to their respective owners.
 
-Kugenie's application source code is private and is not included in this repository or its downloads.
+This repository contains public downloads, images, and user information. Kugenie's application source remains private. GitHub's automatic source archives contain only the files in this public repository.
