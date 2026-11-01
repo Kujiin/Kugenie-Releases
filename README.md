@@ -9,7 +9,7 @@
 
 ![Kugenie workspace preview](assets/workspace-preview.png)
 
-*Workspace preview using demo content.*
+
 
 ## A workspace for your ideas
 
